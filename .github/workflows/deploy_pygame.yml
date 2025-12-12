@@ -1,4 +1,4 @@
-name: Wilmut Invader with Pygbag
+name: David vs Burgergeddon with Pygbag
 on:
   push:
     branches:
