@@ -11,7 +11,7 @@ import sys
 import pygame
 import random
 
-__version__ = '2025.2.14'
+__version__ = '2025.12.3'
 __email__ = 'daniel@engvalls.eu'
 
 PYGAME_VERSION = pygame.version.ver
